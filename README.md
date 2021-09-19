@@ -12,3 +12,8 @@ The following table depicts a summary of important metrics about ride-sharing da
 
 ![image](https://user-images.githubusercontent.com/85533099/133940599-f2d0185f-a1ab-433e-9bc1-613740207b14.png)
 
+The following image shows 
+
+![image](https://user-images.githubusercontent.com/85533099/133941160-22071ba6-a24f-4041-9c94-795561349caa.png)
+
+
