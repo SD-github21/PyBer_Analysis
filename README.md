@@ -33,7 +33,7 @@ The purpose of the PyBer analysis was to compare ride-sharing data across divers
 
 #### Thus, urban cities generate the highest revenue when compared to rural and suburban cities. 
 
-## (2) The following image depicts a multiple line chart revealing trends in revenue generated from total fares across the city type: 
+### (2) The following image depicts a multiple line chart revealing trends in revenue generated from total fares across the city type: 
 
 ![image](https://user-images.githubusercontent.com/85533099/133941160-22071ba6-a24f-4041-9c94-795561349caa.png)
 
