@@ -57,10 +57,11 @@ The purpose of the PyBer analysis was to compare ride-sharing data across divers
 
 According to the summary statistics comparing city types, urban cities generate the highest revenue when compared to rural and suburban cities. The multiple line chart provides a more detailed visualization of how urban cities generate the highest revenue when compared to rural and suburban cities across a 4 month period (January - April). Therefore, the results of this analysis illuminate the need for PyBer to focus more attention on suburban and rural cities. Findings clearly show that there are significant problems with the affordability of fares and the accessibility of drivers in rural and suburban cities. One hypothesis to explore would be to consider that this discrepancy is due to the significantly lower number of drivers in rural and suburban cities. Therefore, it is recommended that PyBer:
 
-  - Target more funding towards increasing the number of drivers in rural cities for a 3 month trial period
-  - Target more funding towards increasing the number of drivers in suburban cities for a 3 month trial period
-  - Repeat the same summary statistics comparing rural, suburban, and urban cities across this 3 month trial period to determine whether this approach will generate increased 
-    revenue 
-  - Track total revenue generated within rural, suburban, and urban cities across this 3 month trial period using the same visualization process of a multiple line chart to 
-    determine whether what was observed from January to April changes during summer months (June - August),  or fall/winter months (September - December). 
+  - Target more funding towards increasing the number of drivers in rural cities for a three month trial period
+  - Target more funding towards increasing the number of drivers in suburban cities for a three month trial period
+  - Repeat the same summary statistics comparing rural, suburban, and urban cities across this three month trial period to determine whether this approach will generate
+    increased revenue and allow for reduced fare rates
+  - Track total revenue generated within rural, suburban, and urban cities across this three month trial period using the same visualization process of a multiple line chart 
+    to determine whether the observed trends from January to April remain consistent or change during the three month trial period
 
+If PyBer does see dramatic changes, then it would be recommended for PyBer to extend their trial period through to the end of the calendar year. To truly test the effectiveness of this hypothesis, however, PyBer should continue their strategy of increasing drivers in rural and suburban cities the following calendar year from January to April as a way to test whether or not the revenue generated within this four month period changes dramatically from what was observed in 2019. If so, then increasing number of drivers in rural and suburban cities may have achieved the intended goals of not ony increasing accessibility ride-sharing services but also increasing the affordability of those services with reduced fares. 
