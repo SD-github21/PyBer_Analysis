@@ -29,7 +29,7 @@ The purpose of the PyBer analysis was to compare ride-sharing data across divers
       versus $39,854.38).
    - The average fare per ride over a 4 month period (January - April) for rural cities was **$10.09** higher than the average fare per ride for urban cities ($34.62 versus 
       $24.53).      
-   - The average fare per driver over a 4 month period (January - April) for rural cities was **$38.92** higher than the average fare per driver for urban cities ($55.49  
+   - The average fare per driver over a 4 month period (January - April) for rural cities was **$38.92** higher than the average fare per driver for urban cities ($55.49 
      versus $16.57).
     
 
@@ -53,7 +53,7 @@ The purpose of the PyBer analysis was to compare ride-sharing data across divers
 
 ## Recommendations
 
-According to the summary statistics comparing city types, urban cities generate the highest revenue when compared to rural and suburban cities. The multiple line chart provides a more detailed visualization of how urban cities generate the highest revenue when compared to rural and suburban cities across a 4 month period (January - April). Therefore, the results of this analysis illuminate the need for the PyBer CEO to focus more attention on suburban and rural cities. Findings clearly show that there are significant problems with the affordability of fares and the accessibility of drivers in rural and suburban cities. It is recommended that business executives:
+According to the summary statistics comparing city types, urban cities generate the highest revenue when compared to rural and suburban cities. The multiple line chart provides a more detailed visualization of how urban cities generate the highest revenue when compared to rural and suburban cities across a 4 month period (January - April). Therefore, the results of this analysis illuminate the need for the PyBer CEO to focus more attention on suburban and rural cities. Findings clearly show that there are significant problems with the affordability of fares and the accessibility of drivers in rural and suburban cities. One hypothesis to explore would be to consider that this discrepancy is due to the significantly lower number of drivers in rural and suburban cities. Therefore, it is recommended that PyBer:
 
   - Target more funding towards increasing the number of drivers in rural cities for a 3 month trial period
   - Target more funding towards increasing the number of drivers in suburban cities for a 3 month trial period
