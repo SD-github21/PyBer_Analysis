@@ -14,14 +14,17 @@ The following table depicts a summary of important metrics about ride-sharing da
 
 The findings from this analysis revealed significant disparities between city type, particularly when comparing suburban and rural cities to urban cities:
 
-  ### Summary findings for Suburban cities versus Urban cities
+  ### Summary of findings for suburban cities versus urban cities
   - The total number of rides over a 4 month period (January - April) for suburban cities was **2.60** times less than urban cities (625 versus 1,625 rides). 
   - The total number of drivers over a 4 month period (January - April) for suburban cities was **4.91** times less than urban cities (490 versus 2,405).
-  - The revenue generated from the total sum of fares over a 4 month period (January - April) for suburban cities was **2.06** times less than urban cities ($19,356.33 versus      $39,854.38).
+  - The revenue generated from the total sum of fares over a 4 month period (January - April) for suburban cities was **$20,498.05** less than urban cities ($19,356.33 versus      $39,854.38).
   - The average fare per ride over a 4 month period (January - April) for suburban cities was **$6.44** higher than the average fare per ride for urban cities ($30.97 versus      $24.53).
-  ### Summary findings for Rural cities versus Urban cities
+  - The average fare per driver over a 4 month period (January - April) for suburban cities was **$22.93** higher than the average fare per driver for urban cities ($39.50  
+     versus $16.57).
+
+  ### Summary of findings for rural cities versus urban cities
    - The total number of rides over a 4 month period (January - April) for rural cities were **4.91** times less than urban cities (125 versus 1,625 rides). 
-  - 
+   - The total number of drivers over a 4 month period (January - April) for rural cities was **30.83** times less than urban cities (78 versus 2,405).
 
 
 The following image shows 
