@@ -23,7 +23,7 @@ The purpose of the PyBer analysis was to compare ride-sharing data across divers
     
      
   ### Summary of findings for rural cities versus urban cities
-   - The total number of rides over a 4 month period (January - April) for rural cities were **13** times less than urban cities (125 versus 1,625 rides). 
+   - The total number of rides over a 4 month period (January - April) for rural cities was **13** times less than urban cities (125 versus 1,625 rides). 
    - The total number of drivers over a 4 month period (January - April) for rural cities was **30.83** times less than urban cities (78 versus 2,405).
    - The revenue generated from the total sum of fares over a 4 month period (January - April) for rural cities was **$35,526.45** less than urban cities ($4,327.93
       versus $39,854.38).
