@@ -5,7 +5,7 @@ The purpose of the PyBer analysis was to compare ride-sharing data across divers
 
 ## Resources
 - Data Sources: city_data.csv & ride_data.csv
-- Software: Python 3.7.10, Anaconda 1.7.2, Jupyter Notebook, Pandas, Matplotlib.Pypolt
+- Software: Python 3.7.10, Anaconda 1.7.2, Jupyter Notebook, Pandas, Matplotlib
 
 ## Results 
 
