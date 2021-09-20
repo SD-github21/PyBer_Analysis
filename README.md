@@ -33,7 +33,7 @@ The purpose of the PyBer analysis was to compare ride-sharing data across divers
      versus $16.57).
     
 
-### The following image depicts a multiple line chart revealing trends in revenue generated from total fares across the city type: 
+### The following image depicts a multiple line chart revealing trends in revenue generated across city type: 
 
 ![image](https://user-images.githubusercontent.com/85533099/133941160-22071ba6-a24f-4041-9c94-795561349caa.png)
 
