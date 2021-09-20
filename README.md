@@ -21,10 +21,19 @@ The findings from this analysis revealed significant disparities between city ty
   - The average fare per ride over a 4 month period (January - April) for suburban cities was **$6.44** higher than the average fare per ride for urban cities ($30.97 versus      $24.53).
   - The average fare per driver over a 4 month period (January - April) for suburban cities was **$22.93** higher than the average fare per driver for urban cities ($39.50  
      versus $16.57).
-
+    
+     
   ### Summary of findings for rural cities versus urban cities
-   - The total number of rides over a 4 month period (January - April) for rural cities were **4.91** times less than urban cities (125 versus 1,625 rides). 
+   - The total number of rides over a 4 month period (January - April) for rural cities were **13** times less than urban cities (125 versus 1,625 rides). 
    - The total number of drivers over a 4 month period (January - April) for rural cities was **30.83** times less than urban cities (78 versus 2,405).
+   - The revenue generated from the total sum of fares over a 4 month period (January - April) for rural cities was **$35,526.45** less than urban cities ($4,327.93
+      versus $39,854.38).
+   - The average fare per ride over a 4 month period (January - April) for rural cities was **$10.09** higher than the average fare per ride for urban cities ($34.62 versus 
+      $24.53).      
+   - The average fare per driver over a 4 month period (January - April) for rural cities was **$38.92** higher than the average fare per driver for urban cities ($55.49  
+     versus $16.57).
+
+  
 
 
 The following image shows 
