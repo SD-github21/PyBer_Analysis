@@ -12,6 +12,14 @@ The following table depicts a summary of important metrics about ride-sharing da
 
 ![image](https://user-images.githubusercontent.com/85533099/133940599-f2d0185f-a1ab-433e-9bc1-613740207b14.png)
 
+The findings from this analysis revealed significant disparities between city type, particularly when comparing suburban and rural cities to urban cities:
+
+  ### Summary findings for Suburban cities 
+  - The total number of rides over a 4 month period (January - April) for suburban cities were **2.60** times less than urban cities (625 versus 1,625 rides). 
+  - The total number of rides over a 4 month period (January - April) for rural cities were **4.91** times less than urban cities (125 versus 1,625 rides). 
+  - 
+
+
 The following image shows 
 
 ![image](https://user-images.githubusercontent.com/85533099/133941160-22071ba6-a24f-4041-9c94-795561349caa.png)
