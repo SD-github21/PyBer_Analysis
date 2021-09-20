@@ -59,7 +59,7 @@ According to the summary statistics comparing city types, urban cities generate 
 
   - Target more funding towards increasing the number of drivers in rural cities for a 3 month trial period
   - Target more funding towards increasing the number of drivers in suburban cities for a 3 month trial period
-  - Repeat the same summary statistics between rural, suburban, and urban cities across this 3 month trial period to determine whether this approach will generate increased 
+  - Repeat the same summary statistics comparing rural, suburban, and urban cities across this 3 month trial period to determine whether this approach will generate increased 
     revenue 
   - Track total revenue between rural, suburban, and urban cities across this 3 month trial period using the same visualization process of a multiple line chart to determine     whether what was observed from January to April changes during summer months (June - August),  or fall/winter months (September - December). 
 
