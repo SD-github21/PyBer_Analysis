@@ -18,8 +18,8 @@ The purpose of the PyBer analysis was to compare ride-sharing data across divers
   - The total number of drivers over a 4 month period (January - April) for suburban cities was **4.91** times less than urban cities (490 versus 2,405).
   - The revenue generated from the total sum of fares over a 4 month period (January - April) for suburban cities was **$20,498.05** less than urban cities ($19,356.33 versus      $39,854.38).
   - The average fare per ride over a 4 month period (January - April) for suburban cities was **$6.44** higher than the average fare per ride for urban cities ($30.97 versus      $24.53).
-  - The average fare per driver over a 4 month period (January - April) for suburban cities was **$22.93** higher than the average fare per driver for urban cities ($39.50  
-     versus $16.57).
+  - The average fare per driver over a 4 month period (January - April) for suburban cities was **$22.93** higher than the average fare per driver for urban cities ($39.50 
+    versus $16.57).
     
      
   ### Summary of findings for rural cities versus urban cities
