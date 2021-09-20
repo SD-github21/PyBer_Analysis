@@ -11,7 +11,7 @@ The purpose of the PyBer analysis was to compare ride-sharing data across divers
 
 ### The following table depicts a summary of important metrics about ride-sharing data across diverse city types:
 
-![image](https://user-images.githubusercontent.com/85533099/133940599-f2d0185f-a1ab-433e-9bc1-613740207b14.png)
+![image](https://user-images.githubusercontent.com/85533099/133962344-d19c1e8c-2c83-44ea-9d92-e9e2acd90925.png)
 
   ### Summary of findings for suburban cities versus urban cities
   - The total number of rides over a 4 month period (January - April) for suburban cities was **2.60** times less than urban cities (625 versus 1,625 rides). 
