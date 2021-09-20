@@ -1,7 +1,7 @@
 # PyBer Analysis
 
 ## Overview of PyBer Analysis
-The purpose of the PyBer analysis was to compare ride-sharing data across diverse city types in order to identify important disparities that can assist with key business decisions. Comparisons between urban, suburban, and rural city types were examined across several metrics to determine disparities regarding the affordability and accessibility of ride-sharing services. 
+The purpose of the PyBer analysis was to compare ride-sharing data across diverse city types in order to identify important disparities that can assist with key business decisions. Comparisons between urban, suburban, and rural city types were examined across several metrics to determine the affordability and accessibility of ride-sharing services. 
 
 ## Resources
 - Data Sources: city_data.csv & ride_data.csv
