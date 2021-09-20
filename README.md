@@ -53,6 +53,9 @@ The purpose of the PyBer analysis was to compare ride-sharing data across divers
 
 ## Recommendations
 
-According to the summary statistics comparing city types, urban cities generate the highest revenue when compared to rural and suburban cities. The multiple line chart provides a more detailed visualization of how urban cities generate the highest revenue when compared to rural and suburban cities. Therefore, the results of this analysis illuminate the need for business executives at PyBer to focus more attention on suburban and rural cities. Findings clearly show that there are significant problems with the affordability of fares and the accessibility of drivers in rural and suburban cities. 
-  - 
+According to the summary statistics comparing city types, urban cities generate the highest revenue when compared to rural and suburban cities. The multiple line chart provides a more detailed visualization of how urban cities generate the highest revenue when compared to rural and suburban cities. Therefore, the results of this analysis illuminate the need for business executives at PyBer to focus more attention on suburban and rural cities. Findings clearly show that there are significant problems with the affordability of fares and the accessibility of drivers in rural and suburban cities. It is recommended that business executives:
+
+  - Target more funding towards increasing the number of drivers in rural cities. 
+  - Target more funding towards increasing the number of drivers in suburban cities.
+  - Consider a gradual plan to increase the number of drivers in these types of cities by 
 
