@@ -63,6 +63,6 @@ According to the summary statistics comparing city types, urban cities generate 
   - Repeat the same summary statistics comparing rural, suburban, and urban cities across this three month trial period to determine whether this approach will generate
     increased revenue and allow for reduced fare rates
   - Track total revenue generated within rural, suburban, and urban cities across this three month trial period using the same visualization process of a multiple line chart 
-    to determine whether the observed trends from January to April remain consistent or change during the three month trial period
+    to determine whether the observed trends from January to April remain consistent or change during the new three month trial period
 
 If PyBer does see dramatic changes, then it would be recommended for PyBer to extend their trial period through to the end of the calendar year. To truly test the effectiveness of this hypothesis, however, PyBer should continue their strategy of increasing drivers in rural and suburban cities the following calendar year from January to April as a way to test whether or not the revenue generated within this four month period changes dramatically from what was observed in 2019. If so, then increasing the number of drivers in rural and suburban cities may have achieved the intended goals of not ony increasing the accessibility of ride-sharing services across diverse city types, but also increasing the affordability of those services with reduced fares. 
